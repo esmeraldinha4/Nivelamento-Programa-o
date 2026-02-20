@@ -4,3 +4,9 @@ body{
     color:black
 
 } 
+
+.carnaval{
+
+   display: flex;
+   font-size: medium;
+}
